@@ -1,0 +1,11 @@
+Registration & Login system with Python, File Handling:
+
+- Panel for Registration and Login created. Upon the user input.
+
+- In Registration mode, username/email is received from the user and verified with the test conditions and availability. If username/email exists, the panel pops up to create new or login. Upon selection, the system runs.
+
+- In the same way, Login conditions are verified with the username and password credentials stored during registration and allows login. If username doesn't exist, throws the pop up to create new / login again.
+
+- Username is validated using RegEX. 
+
+- System is created using Nested Functions.
